@@ -1,0 +1,7 @@
+* text=auto eol=lf
+docs/*.html linguist-vendored
+
+src/**/*.tsx linguist-detectable
+
+*.yaml linguist-detectable=false
+docs/* linguist-vendored
